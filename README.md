@@ -1,0 +1,1 @@
+Landing page demo for nexter realtors. It was built with html, css(scss, css3 grid).
